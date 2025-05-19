@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Specify rules for backing up application data -->
+    <!-- Learn more at https://developer.android.com/guide/topics/data/autobackup -->
+    <!-- Example: <include domain="sharedpref" path="app_prefs.xml"/> -->
+</full-backup-content>
